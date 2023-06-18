@@ -1,4 +1,4 @@
-# On Improving ContextualBandit With Sensitivity Value Design
+# On Improving ContextualBandit Performance With Sensitivity Value Design
 ## *Description*:
 
 -This work is to follow the most recent development of **contextual bandit** and expand the design perspective of **counterfactual system** and seek a possible workaround such as
