@@ -14,7 +14,9 @@
 
 
 
-### Off-line Reinforcement Learning [*Minmin Chen, Yuta Saito, Longqi Yang*]
+### Off-line Reinforcement Learning 
+[*Minmin Chen, Yuta Saito, Longqi Yang*]
+
 [Yuta Saito(Click for Google Page)](https://scholar.google.com/citations?user=pw4hwS8AAAAJ&hl=en)
 
 |   Author    | Paper         |      Year     |
