@@ -14,11 +14,13 @@
 
 
 
-### Off-line Reinforcement Learning [Minmin Chen, Yuta Saito, Longqi Yang]
+### Off-line Reinforcement Learning [*Minmin Chen, Yuta Saito, Longqi Yang*]
 [Yuta Saito(Click for Google Page)](https://scholar.google.com/citations?user=pw4hwS8AAAAJ&hl=en)
+
 |   Author    | Paper         |      Year     |
 |-------------| ------------- | ------------- |
 || Unbiased Recommendation Learning From MCNR |[2020](https://dl.acm.org/doi/pdf/10.1145/3336191.3371783)  |
 || Open Bandit Database and Pipeline: Reproducible Off-line Policy Evaluation  |[2022](https://arxiv.org/abs/2008.07146)|
+
 
 
