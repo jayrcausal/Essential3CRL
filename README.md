@@ -8,7 +8,10 @@ Topics will include:
 
 -**Basic of Counterfactual Learning**:
 
+
 -**Off-line Reinforcement Learning**:
 
+Off-line reinforcement learning has been widely used in recommendation systems and contextual bandit for off-policy evaluation. I will follow papers that mark the most recent advancement of this field and do some sample-based implementation; I will also try my best to make some direct tie-ins and connect each method in terms of my personal understanding.
 -**Causal Dicovery and Graphic Models**:
+
 this topic does not quite match the conventional framework **Potential Outcome** mainly used in observational study by Rubin 
