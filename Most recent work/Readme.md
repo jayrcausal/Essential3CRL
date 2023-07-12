@@ -23,7 +23,7 @@
 |-------------| ------------- | ------------- |
 |             |Kernel Moment Matching|[2009](https://github.com/GostabMath/EssentialsCausalLearning)        |
 |             |Probabiltiy Density Matching| [2008](https://link.springer.com/article/10.1007/s10463-008-0197-x#citeas),[2009](https://www.jstage.jst.go.jp/article/ipsjtcva/1/0/1_0_183/_pdf/-char/ja), [2010](https://www.jstage.jst.go.jp/article/ipsjtcva/1/0/1_0_183/_pdf/-char/ja),[2012 Book](https://yosinski.com/mlss12/media/slides/MLSS-2012-Sugiyama-Density-Ratio-Estimation-in-Machine-Learning.pdf) |
-|             |Density Ratio-fitting fitting|[2009]
+|             |Density Ratio-fitting fitting|[2009](https://www.jmlr.org/papers/volume10/kanamori09a/kanamori09a.pdf?ref=https://githubhelp.com)|
 |             |Probablistic Classification Matching| [1998](https://academic.oup.com/biomet/article-abstract/85/3/619/229087?redirectedFrom=PDF),[2004](https://projecteuclid.org/journals/bernoulli/volume-10/issue-4/Semiparametric-density-estimation-under-a-two-sample-density-ratio-model/10.3150/bj/1093265631.full)|
 
 
