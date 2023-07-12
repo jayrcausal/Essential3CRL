@@ -8,10 +8,12 @@
 
 |   Author    | Paper         |      Year     |
 |-------------| ------------- | ------------- |
-|Kun Zhang, etl| Low-Dimensional Density Ratio Estimation for Covariate Shift Correction | [2019](https://arxiv.org/pdf/2002.03278.pdf)  |
+|Kun Zhang, etl| Low-Dimensional Density Ratio Estimation|[2019](http://proceedings.mlr.press/v89/stojanov19a/stojanov19a.pdf) |
 |              | Density-ratio matching under the Bregman divergence  | [2012](https://www.ism.ac.jp/editsec/aism/pdf/10463_2011_Article_343.pdf) |
-
-
+|  |Domain Adaptation as a Problem of Inference on Graphical Models  |[2020](https://arxiv.org/pdf/2002.03278.pdf)|
+||Domain Adaptation with Invariant Representation Learning: What Transformations to Learn?|[2021](https://proceedings.neurips.cc/paper/2021/file/cfc5d9422f0c8f8ad796711102dbe32b-Paper.pdf)
+|Yuta,Saito|Causal Embedding for Recommendation|[2018](https://arxiv.org/pdf/1706.07639)|
+||Domain Adversarial Matrix Factorization|[2022](https://usaito.github.io/files/IJCAI2022_DAMF.pdf)
 
 
 ### Off-line Reinforcement Learning 
