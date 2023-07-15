@@ -6,14 +6,14 @@
 
 ### Domain Adaptation and Distribution Shift
 
-#### *Domain Adaptation Formulation of Causal Representation Learning*
+#### **A**. *Domain Adaptation Formulation of Causal Representation Learning*
 
 |   Author    | Paper         |      Year     |
 |-------------| ------------- | ------------- |
 |Uri Shalit. etl|Learning Representations for Counterfactual Inference|[2016](https://arxiv.org/pdf/1605.03661.pdf)|
 
 
-#### *Follow-up articles and research on Domain Adaptation*
+#### **B**. *Follow-up articles and research on Domain Adaptation*
 
 |   Author    | Paper         |      Year     |
 |-------------| ------------- | ------------- |
@@ -24,7 +24,7 @@
 ||Domain Adversarial Matrix Factorization|[2022](https://usaito.github.io/files/IJCAI2022_DAMF.pdf)|
 || Estimating individual treatment effect: generalization bounds and algorithms|[2016](https://arxiv.org/pdf/1606.03976.pdf)|
 
-#### Theory that forms domain-adaptation: dsitribution ratio estimate
+#### **C**. *Theory that forms domain-adaptation: dsitribution ratio estimate*
 
 Note: although most papers regarding domain adaptation introduce fundamentals of covariates shift, I still recommend readers to check a few of the most renown articles that contribute a lot of work to domain adaptation.Based my understanding, **distribution ratio fitting method** is most understandable. 
 
