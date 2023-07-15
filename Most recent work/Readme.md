@@ -6,7 +6,14 @@
 
 ### Domain Adaptation and Distribution Shift
 
-*Some most recent Development*
+#### *Domain Adaptation Formulation of Causal Representation Learning*
+
+|   Author    | Paper         |      Year     |
+|-------------| ------------- | ------------- |
+||Learning Representations for Counterfactual Inference|[2016](https://arxiv.org/pdf/1605.03661.pdf)|
+||Causal Embedding for Recommendation|[2018](https://arxiv.org/pdf/1706.07639.pdf)|
+
+#### *Distribution Shift and Ratio Estimation*
 
 |   Author    | Paper         |      Year     |
 |-------------| ------------- | ------------- |
@@ -54,4 +61,3 @@ Some advanced methods are based on the most classic paper:  [The central role of
 
 |   Author    | Paper         |      Year     |
 |-------------| ------------- | ------------- |
-|
