@@ -47,7 +47,7 @@ Some advanced methods are based on the most classic paper:  [The central role of
 1) *Batch Learning in Off-line Policy Evaluation*
 2) *Self-normalized Estimator for Counterfactual Learning*(Propensity Overfitting)
 3) *Double-Robust Method in Counterfactual Learning*
-4) *Clipped Inverse Propensity Score*(Upper Bound $$M$$ method)
+4) *Clipped Inverse Propensity Score*(Upper Bound $M$ method)
 5) *Unbiased Off-line Reinforcement Learning MCNR*
 
 
