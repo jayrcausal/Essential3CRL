@@ -15,7 +15,9 @@
 |  |Domain Adaptation as a Problem of Inference on Graphical Models  |[2020](https://arxiv.org/pdf/2002.03278.pdf)|
 ||Domain Adaptation with Invariant Representation Learning: What Transformations to Learn?|[2021](https://proceedings.neurips.cc/paper/2021/file/cfc5d9422f0c8f8ad796711102dbe32b-Paper.pdf)
 |Yuta,Saito|Causal Embedding for Recommendation|[2018](https://arxiv.org/pdf/1706.07639)|
-||Domain Adversarial Matrix Factorization|[2022](https://usaito.github.io/files/IJCAI2022_DAMF.pdf)
+||Domain Adversarial Matrix Factorization|[2022](https://usaito.github.io/files/IJCAI2022_DAMF.pdf)|
+|Uri Shalit. etl|Learning Representations for Counterfactual Inference|[2016](https://arxiv.org/pdf/1605.03661.pdf)|
+|| Estimating individual treatment effect: generalization bounds and algorithms|[2016](https://arxiv.org/pdf/1606.03976.pdf)|
 
 *Please use the following as your reference to understand the mathematical notations and proof*
 
