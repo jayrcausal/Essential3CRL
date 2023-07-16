@@ -1,4 +1,4 @@
-# Causal Learning and Counterfactuals
+# Off-line Reinforcement Learning | Causal Machine Learning | Counterfactual Learning
 
 This documentation serves as a run-down for causal machine learning that covers some most classic methods and the most recent advancement. This is a document under active development and some materials will be a reflection or reference to [Ruocheng Guo](https://github.com/rguo12/awesome-causality-algorithms), a principal researcher at ByteDance,UK. 
 
