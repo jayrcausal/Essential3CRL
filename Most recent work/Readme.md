@@ -38,6 +38,12 @@ Note: although most papers regarding domain adaptation introduce fundamentals of
 |             |Density Ratio-fitting|[2009](https://www.jmlr.org/papers/volume10/kanamori09a/kanamori09a.pdf?ref=https://githubhelp.com)|
 |             |Probablistic Classification Matching| [1998](https://academic.oup.com/biomet/article-abstract/85/3/619/229087?redirectedFrom=PDF),[2004](https://projecteuclid.org/journals/bernoulli/volume-10/issue-4/Semiparametric-density-estimation-under-a-two-sample-density-ratio-model/10.3150/bj/1093265631.full)|
 
+#### **C.Appendix**. *Some supporting documents that help you understand error bound/feature map*
+
+Note: To make this document more reader-friendly, albeit some proof provided in one or more articles has been explicitely introduced, many math-intense technical terms, however, prelude most beginers from getting a full intake of those methods. I would say that a central interest and necessity is to justify estimators we used have statistical guarantee in convergence rate, bounded error and measures. For this very reason, I also listed some materials that I hope is useful.
+
+
+
 
 ### Off-line Reinforcement Learning 
 [*Minmin Chen, Yuta Saito, Longqi Yang*]
