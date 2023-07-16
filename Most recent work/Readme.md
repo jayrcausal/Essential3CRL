@@ -35,18 +35,27 @@ Note: although most papers regarding domain adaptation introduce fundamentals of
 |              | Density-ratio matching under the Bregman divergence  | [2012](https://www.ism.ac.jp/editsec/aism/pdf/10463_2011_Article_343.pdf) |
 |             |Kernel Moment Matching|[2009](https://is.mpg.de/fileadmin/user_upload/files/publications/shift-book-for-LeEtAl-webversion_5376[0].pdf)|
 |             |Probabiltiy Density Matching| [2008](https://link.springer.com/article/10.1007/s10463-008-0197-x#citeas),[2009](https://www.jstage.jst.go.jp/article/ipsjtcva/1/0/1_0_183/_pdf/-char/ja), [2010](https://www.jstage.jst.go.jp/article/ipsjtcva/1/0/1_0_183/_pdf/-char/ja),[2012 Book](https://yosinski.com/mlss12/media/slides/MLSS-2012-Sugiyama-Density-Ratio-Estimation-in-Machine-Learning.pdf) |
-|             |Density Ratio-fitting fitting|[2009](https://www.jmlr.org/papers/volume10/kanamori09a/kanamori09a.pdf?ref=https://githubhelp.com)|
+|             |Density Ratio-fitting|[2009](https://www.jmlr.org/papers/volume10/kanamori09a/kanamori09a.pdf?ref=https://githubhelp.com)|
 |             |Probablistic Classification Matching| [1998](https://academic.oup.com/biomet/article-abstract/85/3/619/229087?redirectedFrom=PDF),[2004](https://projecteuclid.org/journals/bernoulli/volume-10/issue-4/Semiparametric-density-estimation-under-a-two-sample-density-ratio-model/10.3150/bj/1093265631.full)|
 
 
 ### Off-line Reinforcement Learning 
 [*Minmin Chen, Yuta Saito, Longqi Yang*]
 
-[Yuta Saito(Click for Google Page)](https://scholar.google.com/citations?user=pw4hwS8AAAAJ&hl=en)
+[Minmin Chen(click for Google Scholar Profile)]()
+
+|   Author    | Paper         |      Year     |
+|-------------| ------------- | ------------- |
+||Actor Critic Methods for Off-line Policy Evaluation|[2022](https://dl.acm.org/doi/pdf/10.1145/3523227.3546758)|
+||Top K Off-line Evaluaitons|[2021](https://arxiv.org/pdf/1812.02353.pdf)|
+
+
+[Yuta Saito(Click for Google Page)](https://scholar.google.com/citations?user=pw4hwS8AAAAJ&hl=en) and [Thorsten Joachims](https://scholar.google.com/citations?hl=en&user=5tk1PV8AAAAJ&view_op=list_works&sortby=pubdate)
 
 |   Author    | Paper         |      Year     |
 |-------------| ------------- | ------------- |
 || Unbiased Recommendation Learning From MCNR |[2020](https://dl.acm.org/doi/pdf/10.1145/3336191.3371783)  |
+||Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback|[2020](https://arxiv.org/pdf/1910.01444.pdf)|
 || Open Bandit Database and Pipeline: Reproducible Off-line Policy Evaluation  |[2022](https://arxiv.org/abs/2008.07146)|
 
 ### Class of Inverse Propensity Score Methods
