@@ -3,6 +3,10 @@
 > Research Project about Causal-based Reinforcement Learning. This repository includes all needed fundamentals, summary of past work and some most recent development
 <hr>
 
+## <a name="resource"></a>Resource
+
+<img src="https://cdn.dribbble.com/users/1083804/screenshots/5841972/media/6e8cb96e1a64c0b9d9c2c66e297683fb.png" width="150" height="50">
+
 ## <a name="team-members"></a>Team Members
 
 * "**Gostab Jiaxu Jen**" <gostab.jen@nyu.edu>
@@ -11,8 +15,6 @@
 > Olive Song is a research-focus machine learning engineer working on video recommendation system at Kuaishou.
 
 Our affiliation is current with *New York University*
-
-## <a name="resource"></a>Resource
 
 ## Play Around Counterfactuals in Reinforcement Learning
 
