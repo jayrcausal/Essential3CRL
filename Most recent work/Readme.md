@@ -6,7 +6,7 @@
 ## <a name="resource"></a>Resource
 
 <img src="https://cdn.dribbble.com/users/1083804/screenshots/5841972/media/6e8cb96e1a64c0b9d9c2c66e297683fb.png" width="180" height="120">
-
+<img src="https://cdn.arstechnica.net/wp-content/uploads/2023/04/623082907ce4897c3820b24c_DeepMind-800x420.jpg width="180" height="120">
 ## <a name="team-members"></a>Team Members
 
 * "**Gostab Jiaxu Jen**" <gostab.jen@nyu.edu>
