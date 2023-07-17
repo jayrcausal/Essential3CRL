@@ -1,4 +1,4 @@
-# EssentialCausalLearn: a Flying Archive !<img src="https://logos-world.net/wp-content/uploads/2021/09/NYU-Logo.png" width="60" height="100">
+# EssentialCausalLearn: a Flying Archive !<img src="https://logos-world.net/wp-content/uploads/2021/09/NYU-Logo.png" width="100" height="80">
 
 > Research Project about Causal-based Reinforcement Learning. This repository includes all needed fundamentals, summary of past work and some most recent development
 <hr>
