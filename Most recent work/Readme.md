@@ -12,6 +12,8 @@
 
 Our affiliation is current with *New York University*
 
+## <a name="resource"></a>Resource
+
 ## Play Around Counterfactuals in Reinforcement Learning
 
 The link of all paper work can be found here or the child folder in this working space
