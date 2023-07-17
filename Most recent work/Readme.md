@@ -51,7 +51,7 @@ Note: *To make this document more reader-friendly, albeit some proof provided in
 
 <details>
 <summary> Off-line Reinforcement Learning </summary>
-[*Minmin Chen, Yuta Saito, Longqi Yang*]
+
 
 Note: *Off-line reinforcement learning in recommendation systems is deemed a very broad topic for which its theories and applications might be varying among a number of fields: off-line policy evaluation, counterfactual learnig, counterfactual causal effect estimating and language models. We just follow the trajectory of three representitives in bandit, off-policy evaluation and recommendation systems.*
 
