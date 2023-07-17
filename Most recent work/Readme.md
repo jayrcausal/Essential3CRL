@@ -1,6 +1,8 @@
 # Collections of most recent development of Contextual Bandit and Off-policy Evaluation
 
-**Gostab Jiaxu Jen** New York University
+**Gostab Jiaxu Jen** 
+
+Leading graduate researcher, *New York University*
 
 ## Play Around Counterfactuals in Reinforcement Learning
 
