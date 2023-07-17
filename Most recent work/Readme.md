@@ -10,7 +10,7 @@
 * "**Olive Song**" <js10407@nyu.edu>
 > Olive Song is a research-focus machine learning engineer working on video recommendation system at Kuaishou.
 
-Leading graduate researcher, *New York University*
+Our affiliation is current with *New York University*
 
 ## Play Around Counterfactuals in Reinforcement Learning
 
