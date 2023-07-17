@@ -6,6 +6,7 @@
 ## <a name="resource"></a>Resource
 
 <img src="https://cdn.dribbble.com/users/1083804/screenshots/5841972/media/6e8cb96e1a64c0b9d9c2c66e297683fb.png" width="180" height="120">
+
 ## <a name="team-members"></a>Team Members
 
 * "**Gostab Jiaxu Jen**" <gostab.jen@nyu.edu>
