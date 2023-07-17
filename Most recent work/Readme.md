@@ -26,7 +26,7 @@
 
 #### **C**. *Theory that forms domain-adaptation: dsitribution ratio estimate*
 
-Note: although most papers regarding domain adaptation introduce fundamentals of covariates shift, I still recommend readers to check a few of the most renown articles that contribute a lot of work to domain adaptation.Based my understanding, **distribution ratio fitting method** is most understandable. 
+Note: *although most papers regarding domain adaptation introduce fundamentals of covariates shift, I still recommend readers to check a few of the most renown articles that contribute a lot of work to domain adaptation.Based my understanding, **distribution ratio fitting method** is most understandable.*
 
 *Please use the following as your reference to understand the mathematical notations and proof*
 
@@ -40,7 +40,7 @@ Note: although most papers regarding domain adaptation introduce fundamentals of
 
 #### **C.Appendix**. *Some supporting documents that help you understand error bound/feature map*
 
-Note: To make this document more reader-friendly, albeit some proof provided in one or more articles has been explicitely introduced, many math-intense technical terms, however, prelude most beginers from getting a full intake of those methods. I would say that a central interest and necessity is to justify estimators we used have statistical guarantee in convergence rate, bounded error and measures. For this very reason, I also listed some materials that I hope is useful.
+Note: *To make this document more reader-friendly, albeit some proof provided in one or more articles has been explicitely introduced, many math-intense technical terms, however, prelude most beginers from getting a full intake of those methods. I would say that a central interest and necessity is to justify estimators we used have statistical guarantee in convergence rate, bounded error and measures. For this very reason, I also listed some materials that I hope is useful.*
 
 -A great survey course pertaining to probablistic graphic models introduces some important knowledge about marginal polytope and RHKS.[(Link here)](http://www.cs.cmu.edu/~epxing/Class/10708-16/slide/lecture14-VITheory.pdf)
 
@@ -51,20 +51,22 @@ Note: To make this document more reader-friendly, albeit some proof provided in 
 ### Off-line Reinforcement Learning 
 [*Minmin Chen, Yuta Saito, Longqi Yang*]
 
-Note: Off-line reinforcement learning in recommendation systems is deemed a very broad topic for which its theories and applications might be varying among a number of fields: off-line policy evaluation, counterfactual learnig, counterfactual causal effect estimating and language models. We just follow the trajectory of three representitives in bandit, off-policy evaluation and recommendation systems. 
+Note: *Off-line reinforcement learning in recommendation systems is deemed a very broad topic for which its theories and applications might be varying among a number of fields: off-line policy evaluation, counterfactual learnig, counterfactual causal effect estimating and language models. We just follow the trajectory of three representitives in bandit, off-policy evaluation and recommendation systems.*
 
 Minmin is a current senior researcher working on contextual bandit recom-sys at Google Brain. 
 
-[Minmin Chen(click for Google Scholar Profile)](https://mchen24.github.io/)
+#### Researcher 1 [Minmin Chen(click for Google Scholar Profile)](https://mchen24.github.io/)
+
+Minmin is a current senior researcher working on contextual bandit recom-sys at Google Brain.
 
 |   Author    | Paper         |      Year     |
 |-------------| ------------- | ------------- |
 ||Actor Critic Methods for Off-line Policy Evaluation|[2022](https://dl.acm.org/doi/pdf/10.1145/3523227.3546758)|
 ||Top K Off-line Evaluaitons|[2021](https://arxiv.org/pdf/1812.02353.pdf)|
 
+#### Researcher 2 [Yuta Saito(Click for Google Page)](https://scholar.google.com/citations?user=pw4hwS8AAAAJ&hl=en) and [Thorsten Joachims](https://scholar.google.com/citations?hl=en&user=5tk1PV8AAAAJ&view_op=list_works&sortby=pubdate)
 
-[Yuta Saito(Click for Google Page)](https://scholar.google.com/citations?user=pw4hwS8AAAAJ&hl=en) and [Thorsten Joachims](https://scholar.google.com/citations?hl=en&user=5tk1PV8AAAAJ&view_op=list_works&sortby=pubdate)
-
+Note: *Professor Joachims and his brilliant student are remarkable representatives who conducting research on theory and advancement of off-line reinforcement learning and counterfactual-based recommendation systems. The mission of their papers are to lead, give and explore the current direction of off-line reinforcement learning and recommendation systems. It is easy to tell that some research articles have rigorous mathematical proof and use more space to justify the statistical guarantee. Therefore, their articles are slightly academic(perhaps theoretical). Some heading research labs then followed-up their original ideas by implementing the renovated algorithms and applying them to real-world complications that could verify whether those methods can work or not. So I strongly recommend you to read these papers with accompanion of some testing articles.*
 |   Author    | Paper         |      Year     |
 |-------------| ------------- | ------------- |
 ||Off-Policy Evaluation for Large Action Spaces via Embeddings|[2022](https://arxiv.org/pdf/2202.06317.pdf)|
