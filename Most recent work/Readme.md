@@ -1,10 +1,12 @@
 # Collections of most recent development of Contextual Bandit and Off-policy Evaluation
 **Posted by Gostab, NYU**
 
-## *Working Path*
+## Working Path
 -We will be investigating some work done by one of the most widely cited scholors(Cornell, MIT, and Neflix & Columbia University). The link of all paper work can be found here or the child folder in this working space
 
-### Domain Adaptation and Distribution Shift
+<details> 
+
+<summary> Domain Adaptation and Distribution Shift </summary>
 
 #### **A**. *Domain Adaptation Formulation of Causal Representation Learning*
 
@@ -44,7 +46,7 @@ Note: *To make this document more reader-friendly, albeit some proof provided in
 
 -A great survey course pertaining to probablistic graphic models introduces some important knowledge about marginal polytope and RHKS.[(Link here)](http://www.cs.cmu.edu/~epxing/Class/10708-16/slide/lecture14-VITheory.pdf)
 
-
+</details>
 
 
 
