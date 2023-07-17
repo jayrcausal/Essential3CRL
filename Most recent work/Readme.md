@@ -1,5 +1,8 @@
 # EssentialCausalLearn: a Flying Archive
 
+> Research Project about Causal-based Reinforcement Learning. This repository includes all needed fundamentals, summary of past work and some most recent development
+<hr>
+
 **Gostab Jiaxu Jen** 
 
 Leading graduate researcher, *New York University*
