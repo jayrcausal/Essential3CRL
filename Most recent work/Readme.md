@@ -5,7 +5,7 @@
 
 ## <a name="team-members"></a>Team Members
 
-* "Gostab Jiaxu Jen"<gostab.jen@nyu.edu>
+* Gostab Jiaxu Jen<gostab.jen@nyu.edu>
 
 Leading graduate researcher, *New York University*
 
