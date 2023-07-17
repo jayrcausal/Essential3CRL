@@ -1,4 +1,4 @@
-# Collections of most recent development of Contextual Bandit and Off-policy Evaluation
+# Offline Reinforcement Learning-Pedia 
 
 **Gostab Jiaxu Jen** 
 
