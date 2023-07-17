@@ -42,6 +42,9 @@ Note: although most papers regarding domain adaptation introduce fundamentals of
 
 Note: To make this document more reader-friendly, albeit some proof provided in one or more articles has been explicitely introduced, many math-intense technical terms, however, prelude most beginers from getting a full intake of those methods. I would say that a central interest and necessity is to justify estimators we used have statistical guarantee in convergence rate, bounded error and measures. For this very reason, I also listed some materials that I hope is useful.
 
+-A great survey course pertaining to probablistic graphic models introduces some important knowledge about marginal polytope and RHKS.[(Link here)](http://www.cs.cmu.edu/~epxing/Class/10708-16/slide/lecture14-VITheory.pdf)
+
+
 
 
 
