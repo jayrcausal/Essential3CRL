@@ -49,8 +49,8 @@ Note: *To make this document more reader-friendly, albeit some proof provided in
 </details>
 
 
-
-### Off-line Reinforcement Learning 
+<details>
+<summary> Off-line Reinforcement Learning </summary>
 [*Minmin Chen, Yuta Saito, Longqi Yang*]
 
 Note: *Off-line reinforcement learning in recommendation systems is deemed a very broad topic for which its theories and applications might be varying among a number of fields: off-line policy evaluation, counterfactual learnig, counterfactual causal effect estimating and language models. We just follow the trajectory of three representitives in bandit, off-policy evaluation and recommendation systems.*
@@ -77,6 +77,8 @@ Note: *Professor Joachims and his brilliant student are remarkable representativ
 || Unbiased Recommendation Learning From MCNR |[2020](https://arxiv.org/pdf/1909.03601.pdf)  |
 ||Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback|[2020](https://arxiv.org/pdf/1910.01444.pdf)|
 ||Self-Normalized Estimator in Counterfactual Learning|[2015](https://www.cs.cornell.edu/people/tj/publications/swaminathan_joachims_15d.pdf)|
+
+</details>
 
 ### Class of Inverse Propensity Score Methods
 
