@@ -67,9 +67,12 @@ Minmin is a current senior researcher working on contextual bandit recom-sys at 
 
 |   Author    | Paper         |      Year     |
 |-------------| ------------- | ------------- |
-|| Unbiased Recommendation Learning From MCNR |[2020](https://dl.acm.org/doi/pdf/10.1145/3336191.3371783)  |
-||Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback|[2020](https://arxiv.org/pdf/1910.01444.pdf)|
+||Off-Policy Evaluation for Large Action Spaces via Embeddings|[2022](https://arxiv.org/pdf/2202.06317.pdf)|
 || Open Bandit Database and Pipeline: Reproducible Off-line Policy Evaluation  |[2022](https://arxiv.org/abs/2008.07146)|
+||Counterfactual Learning and Evaluation for Recommender Systems: Foundations, Implementations, and Recent Advances|[2021](https://par.nsf.gov/servlets/purl/10309941)|
+|| Unbiased Recommendation Learning From MCNR |[2020](https://arxiv.org/pdf/1909.03601.pdf)  |
+||Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback|[2020](https://arxiv.org/pdf/1910.01444.pdf)|
+||Self-Normalized Estimator in Counterfactual Learning|[2015](https://www.cs.cornell.edu/people/tj/publications/swaminathan_joachims_15d.pdf)|
 
 ### Class of Inverse Propensity Score Methods
 
