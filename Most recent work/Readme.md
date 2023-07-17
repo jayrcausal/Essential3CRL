@@ -1,4 +1,4 @@
-# Offline Reinforcement Learning-Pedia 
+# EssentialCausalLearn: a Flying Archive
 
 **Gostab Jiaxu Jen** 
 
@@ -35,7 +35,7 @@ The link of all paper work can be found here or the child folder in this working
 || Estimating individual treatment effect: generalization bounds and algorithms|[2016](https://arxiv.org/pdf/1606.03976.pdf)|
 
 
-#### **C**. *Theory that forms domain-adaptation: dsitribution ratio estimate*
+#### **C**. *Theory that forms domain-adaptation: distribution ratio estimate*
 
 Note: *although most papers regarding domain adaptation introduce fundamentals of covariates shift, I still recommend readers to check a few of the most renown articles that contribute a lot of work to domain adaptation.Based my understanding, **distribution ratio fitting method** is most understandable.*
 
