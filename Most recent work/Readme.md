@@ -6,9 +6,9 @@
 ## <a name="team-members"></a>Team Members
 
 * "**Gostab Jiaxu Jen**" <gostab.jen@nyu.edu>
-> Gostab Jen is the leading graduate researcher at NYU CDS and GSAS. Our work about improvement of regression discontinuity credibility will be posted soon.
+> Gostab Jen is a leading graduate researcher at NYU CDS and GSAS. Our work about improvement of regression discontinuity credibility will be posted soon.
 * "**Olive Song**" <js10407@nyu.edu>
-> Olive Song is a research-focus machine learning engineering working on video recommendation system at Kuaishou.
+> Olive Song is a research-focus machine learning engineerworking on video recommendation system at Kuaishou.
 
 Leading graduate researcher, *New York University*
 
