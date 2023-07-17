@@ -3,6 +3,8 @@
 > Research Project about Causal-based Reinforcement Learning. This repository includes all needed fundamentals, summary of past work and some most recent development
 <hr>
 
+<a name="team-members"></a>Team Members
+
 **Gostab Jiaxu Jen** 
 
 Leading graduate researcher, *New York University*
