@@ -12,7 +12,7 @@ The link of all paper work can be found here or the child folder in this working
 
 <summary> 
 
-### Domain Adaptation and Distribution Shift 
+## Domain Adaptation and Distribution Shift 
 
 </summary>
 
@@ -68,7 +68,7 @@ Note: *To make this document more reader-friendly, albeit some proof provided in
 <details>
 <summary> 
 
-### Off-line Reinforcement Learning 
+## Off-line Reinforcement Learning 
 
 </summary>
 
@@ -105,7 +105,7 @@ Note: *Professor Joachims and his brilliant student are remarkable representativ
 <summary> 
 
 
-### Class of Inverse Propensity Score Methods
+## Class of Inverse Propensity Score Methods
 
 Some advanced methods are based on the most classic paper:  [The central role of the propensity score in observational studies for causal effect](https://watermark.silverchair.com/70-1-41.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsQwggLABgkqhkiG9w0BBwagggKxMIICrQIBADCCAqYGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMMdOqYPzH71eGJJl1AgEQgIICd_WRXQV_hVYdvvmD0RT6VfCyvv_kaoJLHfGrDiKrZ7Lrs1Uz65HKE28kGmjZqDK0ES2jLv5JWujme83nlV2ckjxBGxjCxLzuo0zTOkApaMfKG3HyYjBt1tlG850EwWebTV6Bff5aKWZfqfHIGaHZNppjYfNrTfg-HgtwOZr2fQLwY_4EeA8LwoqU9rUakYY9cIvzr8a1JMWVAWSMyY-NqyjpQ5whBKrHNZ3w0S1YxYQHdWohTDALndD_q0bnW_tVZzg8stROmItW4foyxce_YDKffqPSuqEqDC8QgKGkwyxBDZvQ7i515D6YxQktAi2putxVaZ5AbY99jItIRaOwdIqa9MT2jc3CNC1o0V7f1oI3eQoAW7l-sL-wSE6UXZFKkx5f0vtcbJrS_L2o_KYS__eLjiPjivAFHpNR5kxOstga6LcggZgw-igbTFAXPiD75BKTxnJpuJUeoTtNOkdOOWD7oojtHDqIk8-IytsDTFTV7YSkK8WIODXPAr4i_qJcsSjXtICjTwFAFpIa3z5-nTszWdq5kTsmVv8GF_iuQAdAxbvWaFGOKg0FE2x-Ia7R-QKAtptI1P_X4VKnZb-roh33ap1A2LEHcWYaUhxjh0pneFoy4Ap55y7k7hknbgwfoNJPUWgUjxlrOQBHTGkfVPg4RBMrZ2s9J0iQuEfMhe18uZTjNRzuisXxiHxMvu6vrwzYWGxRJFmuvZA5N_O00u_tBflHNu2gHJ-ImUSEpQwsIFolPjwNqpND2y7LsP1VhEMVWnUNMxs6OZKFrYFPgf98kaGKOPLHtJIKJAYuCEcaGaaTDrm8bD3R0N9FuxThVKp-lYik9Is). This paper introduced how propensity score can eliminate the overt bias by balancing the observed covariates as a balancing score and this is the finest balancing score among a class of possible balancing scores $b(x)$. The proof is straightforward and thus this document will just mention it for completeness.
 
