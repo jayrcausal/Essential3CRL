@@ -64,7 +64,6 @@ Note: *To make this document more reader-friendly, albeit some proof provided in
 
 </details>
 
-
 <details>
 <summary> 
 
