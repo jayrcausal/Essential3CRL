@@ -1,4 +1,4 @@
-# EssentialCausalLearn: a Flying Archive !<img src="https://m.media-amazon.com/images/I/51azARmUZyL._AC_SX679_.jpg" width="100" height="80">
+# EssentialCausalLearn: a Flying Archive !<img src="https://m.media-amazon.com/images/I/51azARmUZyL._AC_SX679_.jpg" width="150" height="50">
 
 > Research Project about Causal-based Reinforcement Learning. This repository includes all needed fundamentals, summary of past work and some most recent development
 <hr>
