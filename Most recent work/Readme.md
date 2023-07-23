@@ -28,6 +28,13 @@ The link of all paper work can be found here or the child folder in this working
 
 ### Domain Adaptation and Distribution Shift 
 
+**Some original introduction of domain adaptation**.
+
+|   Author    | Paper         |      Year     |
+|-------------| ------------- | ------------- |
+||Correcting Sample Selection Bias by Unlabeled Data|[2007](https://proceedings.neurips.cc/paper_files/paper/2006/file/a2186aa7c086b46ad4e8bf81e2a3a19b-Paper.pdf)|
+||Marginalized Denoising Autoencoders for Domain Adaptation|[2012](https://arxiv.org/ftp/arxiv/papers/1206/1206.4683.pdf)|
+
 </summary>
 
 #### **A**. *Domain Adaptation Formulation of Causal Representation Learning*
@@ -37,7 +44,7 @@ The link of all paper work can be found here or the child folder in this working
 |Uri Shalit. etl|Learning Representations for Counterfactual Inference|[2016](https://arxiv.org/pdf/1605.03661.pdf)|
 
 
-#### **B**. *Follow-up articles and research on Domain Adaptation*
+#### **B**. *Follow-up articles and research on Domain Adaptation for Counterfactual Learning*
 
 |   Author    | Paper         |      Year     |
 |-------------| ------------- | ------------- |
