@@ -21,4 +21,4 @@ Off-line reinforcement learning has been widely used in recommendation systems a
 
 -**Causal Dicovery and Graphic Models**:
 
-this topic does not quite match the conventional framework **Potential Outcome** mainly used in observational study by Rubin 
+this topic does not quite match the conventional framework **Potential Outcome** mainly used in observational study by Rubin. Therefore, please visit another repository I build to start your journey of DAGs and Graphical Causality Discovery.
