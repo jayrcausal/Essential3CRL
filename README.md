@@ -1,6 +1,6 @@
-# Knowledge Map: EssentialCausalLearn
+# Knowledge Map: Essential3CRL
 
->This documentation serves as a run-down for causal machine learning that covers some most classic methods and the most recent advancement. This is a document under active development and some materials will be a reflection or reference to [Ruocheng Guo](https://github.com/rguo12/
+>Essential3CRL is short for Essential Counterfactual/Causal/Core Reinforcement Learning. This documentation serves as a run-down for causal machine learning that covers some most classic methods and the most recent advancement of **Off-line Reinforcement Learning, Contextual Bandit Feedback, Domain Adaptation Under Distribution Shift**. This is a document under active development and some materials will be a reflection or reference to [Ruocheng Guo](https://github.com/rguo12/
 awesome-causality-algorithms), a principal researcher at ByteDance,UK. 
 
 <hr>
