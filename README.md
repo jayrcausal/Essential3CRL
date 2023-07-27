@@ -5,7 +5,7 @@ awesome-causality-algorithms), a principal researcher at ByteDance,UK.
 
 <hr>
 
-We hope these materials can speed up your study and "reinforce" your understanding of causality, counterfactuals, and demain adaptation. Because my central interest is counterfactual learning and bandit-based recommendation system, this document might not be a thorough reflection of anything you have seen in the causal world. Advice and commentes are welcome. Thank you for your interest in causal inference.
+We hope these materials can speed up your study and "reinforce" your understanding of causality, counterfactuals, and domain adaptation. Because my central interest is counterfactual learning and bandit-based recommendation system, this document might not be a thorough reflection of anything you have seen in the causal world. Advice and commentes are welcome. Thank you for your interest in causal inference.
 
 Topics will include:
 
