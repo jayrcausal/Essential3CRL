@@ -24,7 +24,9 @@ Here is a direct link to counterfactual learning course taught by Professor Thor
 
 Off-line reinforcement learning has been widely used in recommendation systems and contextual bandit for off-policy evaluation. I will follow papers that mark the most recent advancement of this field and do some sample-based implementation; I will also try my best to make some direct tie-ins and connect each method in terms of my personal understanding.
 
-- See some most recent contributions and advancement: [EssentialCausalLearn](https://github.com/GostabMath/EssentialsCausalLearning/tree/main/Most%20recent%20work)
+- Start your 3CRL journey with basic knowledge of distribution shift and domain adaptation:[Essential3CRL/Fundamental](https://github.com/GostabMath/Essential3CRL/tree/main/Fundamental)
+- See some most recent contributions and advancement: [Essential3CRL/Most recent work](https://github.com/GostabMath/Essential3CRL/tree/main/Most%20recent%20work)
+
 ## Causal Dicovery and Graphic Discovery:
 
 this topic does not quite match the conventional framework **Potential Outcome** mainly used in observational study by Rubin. Therefore, please visit another repository I build to start your journey of DAGs and Graphical Causality Discovery.
