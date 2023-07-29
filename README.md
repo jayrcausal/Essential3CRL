@@ -7,7 +7,7 @@ awesome-causality-algorithms), a principal researcher at ByteDance,UK.
 
 <hr>
 
-We hope the resource expedites your study and strengthens your grasp of causality, counterfactuals, and domain adaptation., counterfactuals, and domain adaptation. As you are particularly interested in counterfactual learning and bandit-based recommendation systems, we believe this document will prove to be a valuable asset. While it may not cover every aspect of the vast causal world, it is tailored to provide a focused exploration of your central interests.
+We hope the resource expedites your study and strengthens your grasp of causality, counterfactuals, and domain adaptation. As you are particularly interested in counterfactual learning and bandit-based recommendation systems, we believe this document will prove to be a valuable asset. While it may not cover every aspect of the vast causal world, it is tailored to provide a focused exploration of your central interests.
 
 **Thank you for showing interest in our work on causal inference, and we eagerly anticipate your thoughts on Essential3CRL.**
 
