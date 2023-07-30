@@ -2,6 +2,7 @@
 
 >Essential3CRL is short for **Essential Counterfactual/Causal/Core Reinforcement Learning**. Essential3CRL is a comprehensive documentation that delves into the world of causal machine learning. Our goal is to cover both the most classic methods and the latest advancements in Off-line Reinforcement Learning, Contextual Bandit Feedback, and Domain Adaptation Under Distribution Shift.
 
+<img src="https://github.com/GostabMath/Essential3CRL/blob/main/icons/Category.png">
 As of now, this document is under active development, and we are committed to continually expanding its content. We strongly believe that Essential3CRL will be a valuable resource for researchers and practitioners interested in causal machine learning, and we are excited to share our progress with you. Your expertise and insights would be immensely valuable to us as we continue to develop this documentation. This is a document under active development and some materials are a finer,detailed expansion of two subsections of the work done by [Ruocheng Guo](https://github.com/rguo12/
 awesome-causality-algorithms), a principal researcher at ByteDance,UK. 
 
