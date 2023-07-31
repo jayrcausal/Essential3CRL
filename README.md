@@ -25,12 +25,22 @@ Here is a direct link to counterfactual learning course taught by Professor Thor
 - Hacking Course: [Counterfactual Machine Learning](https://github.com/GostabMath/EssentialsCausalLearning/tree/main/Counterfactual%20Machine%20Learning/Lectures)
 
 
-## Off-line Reinforcement Learning:
+## Reinforcement Learning:
 
-Off-line reinforcement learning has been widely used in recommendation systems and contextual bandit for off-policy evaluation. I will follow papers that mark the most recent advancement of this field and do some sample-based implementation; I will also try my best to make some direct tie-ins and connect each method in terms of my personal understanding.
+### Off-line Reinforcement Learning
+
+Off-line reinforcement learning has been widely used in recommendation systems and contextual bandit for off-policy evaluation. I will follow papers that mark the most recent advancement of this field and do some sample-based implementation; I will also try my best to make some direct tie-ins and connect each method in terms of my personal understanding. 
 
 - Start your 3CRL journey with basic knowledge of distribution shift and domain adaptation:[Essential3CRL/Fundamental](https://github.com/GostabMath/Essential3CRL/tree/main/Fundamental)
 - See some most recent contributions and advancement: [Essential3CRL/Most recent work](https://github.com/GostabMath/Essential3CRL/tree/main/Most%20recent%20work)
+
+### Off-policy Reinoforcement Learning
+
+- TBD
+
+### Online Reinforcement Learning
+
+- TBD
 
 ## Causal Dicovery and Graphic Discovery:
 
