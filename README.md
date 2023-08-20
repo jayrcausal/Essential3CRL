@@ -36,7 +36,11 @@ Off-line reinforcement learning has been widely used in recommendation systems a
 
 ### Off-policy Reinoforcement Learning
 
-- TBD
+- Credit Assignment 
+
+- Cooperative Rewards
+
+
 
 ### Online Reinforcement Learning
 
