@@ -13,5 +13,4 @@ unknown distribution. Following what we have investigated in *Fundamental*, two 
 
 |   Field     | Publication   | Year          |
 |-------------| ------------- | ------------- |
-||Offline Reinforcement Learning: Tutorial, Review,
-and Perspectives on Open Problems|[2020](https://arxiv.org/pdf/2005.01643.pdf)|
+||Offline Reinforcement Learning: Tutorial, Review,and Perspectives on Open Problems|[2020](https://arxiv.org/pdf/2005.01643.pdf)|
