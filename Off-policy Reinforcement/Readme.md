@@ -1,6 +1,6 @@
 # Learning Policy with 3CRL
 
-### Section Outline
+## Section Outline
 
 >This module is the central focus of 3CRL as it gives a big picture of the most recent off-policy/offline reinforcement leanring under different frameworks.
 Albeit that conventioanl methods in Causal Inference arises in most situations where experiments are not feasibly scheduled, it still has some affinities with
@@ -9,7 +9,7 @@ we have highlighted, the term " offline" corresponds to many conventional Causal
 unknown distribution. Following what we have investigated in *Fundamental*, two unknown distribution or policies could be easily defined as the full-control distrbution and full-treated distribution or policy. Here I just use a oversimplified example to connect offline reinforcement learning and conventional causal inference. In this section, we will present a relatively thorough investigation onto offline reinforcement learning.
 <hr>
 
-**Overview of Offline Reinforcement Learning**
+### Overview of Offline Reinforcement Learning**
 
 |   Field     | Publication   | Year          |
 |-------------| ------------- | ------------- |
