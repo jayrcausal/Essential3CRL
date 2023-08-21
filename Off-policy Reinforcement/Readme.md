@@ -9,7 +9,7 @@ we have highlighted, the term " offline" corresponds to many conventional Causal
 unknown distribution. Following what we have investigated in *Fundamental*, two unknown distribution or policies could be easily defined as the full-control distrbution and full-treated distribution or policy. Here I just use a oversimplified example to connect offline reinforcement learning and conventional causal inference. In this section, we will present a relatively thorough investigation onto offline reinforcement learning.
 <hr>
 
-## Overview of Offline Reinforcement Learning**
+## Overview of Offline Reinforcement Learning
 
 |   Field     | Publication   | Year          |
 |-------------| ------------- | ------------- |
